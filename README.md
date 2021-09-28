@@ -12,10 +12,17 @@ Using the separate csv files containing employee data, create a SQL database to 
 ## Results
 Below is a summary of the analysis:
 
-* Test
-* Test
-* Test
-* Test
+1. The database was successfully created to perform the analysis. An illustration of the schema behind the joining of the separate csv files can be found below:
+
+![](EmployeeDB_final.png)
+
+
+2. Of the 300,024 total employees, 90,398 are approaching retirement age (approximately 30% of total employees).
+3. The depart
+
+![](By_Title.png)
+
+5. Test
 
 
 ## Summary
